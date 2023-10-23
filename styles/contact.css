@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+
+.header-form-content {
+  display: inline-block;
+  align-items: left;
+}
+.header-form-content h1 {
+  font-size: 3.2rem;
+}
+
+.header-form-content p {
+  margin-top: 2rem;
+  font-size: 1.6rem;
+}
+
+form {
+  margin-top: 4rem;
+
+  background: var(--linear-gradient);
+  border-radius: 1rem;
+  font-size: 1.6rem;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.form-button {
+  margin-top: 4rem;
+}
