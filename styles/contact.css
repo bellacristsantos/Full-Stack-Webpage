@@ -1,32 +1,43 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
 
 .header-form-content {
-  display: inline-block;
+  /* display: inline-block; */
   align-items: left;
-}
-.header-form-content h1 {
-  font-size: 3.2rem;
+  margin-top: 8rem;
 }
 
+/* .header-form-content h1 {
+  font-size: 3.2rem;
+} */
+
 .header-form-content p {
-  margin-top: 2rem;
   font-size: 1.6rem;
+  line-height: 2.4rem;
 }
 
 form {
   margin-top: 4rem;
-
-  background: var(--linear-gradient);
-  border-radius: 1rem;
+  border-radius: 1.2rem;
   font-size: 1.6rem;
 }
+
 
 .input-container {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 50%;
 }
 
-.form-button {
+input::placeholder,
+textarea::placeholder {
+  padding: 0.2rem;
+}
+
+input .form-button {
   margin-top: 4rem;
+  border: 0;
+  border-radius: 0.8rem;
+  width: 12rem;
+  height: 6rem;
+  cursor: pointer;
 }
