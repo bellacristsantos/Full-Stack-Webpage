@@ -2,7 +2,14 @@
 
 <br />
 
-![image](home.png)
+[Click here to see the project](https://projeto-final-pretalab-git-master-bellacristsantos.vercel.app/)
+
+<br />
+
+![image](github/home1.png)
+![image](github/home2.png)
+![image](github/work1.png)
+![image](github/contact1.png)
 
 <br />
 <br />
@@ -22,7 +29,7 @@ This project represents a captivating and creative photography website designed 
 :white_medium_small_square: HTML Structure <br />
 :white_medium_small_square: CSS Styling <br />
 :white_medium_small_square: IFrames <br />
-:white_medium_small_square: Image Display<br /> <br />
+:white_medium_small_square: Image Display<br />
 :white_medium_small_square: Typography <br />
 :white_medium_small_square: Content <br />
 
