@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-webpage",
+  "version": "1.0.0",
+  "description": "<br />",
+  "main": "jquery-3.7.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellacristsantos/Full-Stack-Webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellacristsantos/Full-Stack-Webpage/issues"
+  },
+  "homepage": "https://github.com/bellacristsantos/Full-Stack-Webpage#readme"
+}
