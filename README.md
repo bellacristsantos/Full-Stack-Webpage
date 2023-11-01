@@ -2,7 +2,7 @@
 
 <br />
 
-[Click here to see the project](https://projeto-final-pretalab-git-master-bellacristsantos.vercel.app/)
+[Click here to see the project](https://bellacristsantos.github.io/Full-Stack-Webpage/pages/work.html)
 
 <br />
 
