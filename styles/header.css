@@ -36,3 +36,27 @@ nav a {
   color: var(--black);
   max-width: fit-content;
 }
+
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+  nav {
+    font-size: 1rem;
+    font-weight: 200;
+    margin-left: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.4rem;
+  }
+
+  nav {
+    font-size: 0.8rem;
+    font-weight: 200;
+    margin-left: 4.6rem;
+  }
+
+}

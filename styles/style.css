@@ -133,3 +133,54 @@ img {
   color: var(--black);
   opacity: 0.2;
 }
+
+@media (max-width: 768px) {
+  html {
+    font-size: 80%;
+  }
+
+  body {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+
+  #home-carousel {
+    margin-top: 2rem;
+  }
+  .home-content {
+    margin-top: 4rem;
+    max-width: 100%;
+  }
+  .home-content p {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+  }
+
+  .home-content i {
+    font-size: 1.6rem;
+    color: var(--black);
+
+    display: block;
+    margin-bottom: 2rem;
+  }
+  .home-title {
+    font-size: 1.8rem;
+  }
+  .home-all-images-container {
+    margin-left: 0;
+  }
+  .home-images-one,
+  .home-images-two {
+    gap: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 80%;
+  }
+  body {
+    display: inline-block;
+    max-width: 480px;
+  }
+}

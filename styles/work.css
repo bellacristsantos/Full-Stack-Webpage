@@ -5,3 +5,23 @@
   font-size: 2.4rem;
   font-weight: 400;
 }
+
+@media (max-width: 768px) {
+  .work-title {
+    font-size: 1.6rem;
+    margin-top: 2rem;
+  }
+
+  .table {
+    font-size: 0.4rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .work-title {
+    font-size: 1.4rem;
+  }
+  .table {
+    font-size: 0.8rem;
+  }
+}
