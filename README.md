@@ -2,7 +2,7 @@
 
 <br />
 
-[Click here to see the project](https://bellacristsantos.github.io/Full-Stack-Webpage/pages/work.html)
+[Click here to see the project](https://bellacristsantos.github.io/Full-Stack-Webpage/pages/home.html)
 
 <br />
 
