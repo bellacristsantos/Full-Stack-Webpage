@@ -21,7 +21,6 @@ form {
   font-size: 1.6rem;
 }
 
-
 .input-container {
   display: flex;
   flex-direction: column;
@@ -66,4 +65,4 @@ input .form-button {
   .header-form-content {
     margin-top: 1rem;
   }
-}s
+}
